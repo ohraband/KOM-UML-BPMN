@@ -1,17 +1,15 @@
-Some examples of UML, BPMN and DEMO graphs from uni work about a fictional pizzeria.
+Some examples of UML, BPMN and DEMO graphs from uni work mostly about a fictional pizzeria.
 
-
-# My Images
-
-## BPMN Camnunda
-![Title goes here](cv8-ohraband-bpmn-camunda.png)
 
 ## Small UML
-![Title goes here](cv6_png_ohraband_uml.png)
+![cv6_png_ohraband_uml](cv6_png_ohraband_uml.png)
 
 ## Big UML
-![Title goes here](onto_uml_final.png)
+![onto_uml_final](onto_uml_final.png)
+
+## BPMN Camnunda
+![cv8-ohraband-bpmn-camunda](cv8-ohraband-bpmn-camunda.png)
 
 ## DEMO
-![Title goes here](DEMO-Enterprise-engineering.png)
+![DEMO-Enterprise-engineering](DEMO-Enterprise-engineering.png)
 
